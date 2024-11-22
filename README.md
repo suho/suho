@@ -6,7 +6,7 @@ I am Su, and I am currently an [Engineering Lead](https://nimblehq.co/compass/te
 
 The Engineering Lead role is a people management role. I moved into management/leadership because I want to help people around me grow, achieve their goals, and positively impact the company.
 
-I value *excellent ownership*, *transparency*, and *empathy*. I believe these values are the key to building a strong team and ensuring that the team can deliver the best products.
+I value **excellent ownership**, **transparency**, and **empathy**. I believe these values are the key to building a strong team and ensuring that the team can deliver the best products.
 
 ### Work Patterns
 
@@ -17,16 +17,11 @@ I value *excellent ownership*, *transparency*, and *empathy*. I believe these va
 
 ### Communications
 
-- I prefer to communicate via *In-person*, *Slack*, *Google Meet*, or *Email*. So feel free to pick one that you feel comfortable with.
-- If you need a quick response, I suggest you do it *in person* if you are in the same office as me. Otherwise, *Slack Huddle* is another option.
+- I prefer to communicate via `In-person`, `Slack`, `Google Meet`, or `Email`. So feel free to pick one that you feel comfortable with.
+- If you need a quick response, I suggest you do it `in person` if you are in the same office as me. Otherwise, `Slack Huddle` is another option.
 - I am always open to having Coffee Chats to discuss anything, so feel free to [book a time with me](https://cal.com/suvanho/cc).
 
 ### Feedback
 
 - I could be better, so I always welcome feedback from everyone. This is a way for me to learn and improve.
 - Please provide me feedback in private in any format and specifically indicate it is feedback.
-
-### Related pages
-
-- https://suho.dev
-- https://www.linkedin.com/in/vansuho/
