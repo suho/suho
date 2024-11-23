@@ -4,9 +4,9 @@ I am Su, and I am currently an [Engineering Lead](https://nimblehq.co/compass/te
 
 ### Values
 
-The Engineering Lead role is a people management role. I moved into management/leadership because I want to help people around me grow, achieve their goals, and positively impact the company.
+I moved into the management/leadership role to help people around me grow, achieve their goals, and positively impact the company.
 
-I value **excellent ownership**, **transparency**, and **empathy**. I believe these values are the key to building a strong team and ensuring that the team can deliver the best products.
+Thus, I value **excellent ownership**, **transparency**, and **empathy**. I believe these values are the key to building a strong team and ensuring that the team can deliver the best products.
 
 ### Work Patterns
 
