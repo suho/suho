@@ -23,5 +23,5 @@ Thus, I value **excellent ownership**, **transparency**, and **empathy**. I beli
 
 ### Feedback
 
-- I could be better, so I always welcome feedback from everyone. This is a way for me to learn and improve.
+- I am definitely not perfect and could be better, so I always welcome feedback from everyone. This is a way for me to learn and improve.
 - Please provide me feedback in private in any format and specifically indicate it is feedback.
