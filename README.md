@@ -1,6 +1,6 @@
 ## Hi there, I am Su 👋
 
-I am currently an [Engineering Lead](https://nimblehq.co/compass/team/roles/engineering-lead/) at [Nimble](https://nimblehq.co). and I am still a software engineer at heart.
+I am currently an [Engineering Lead](https://nimblehq.co/compass/team/roles/engineering-lead/) at [Nimble](https://nimblehq.co), and I am still a software engineer at heart.
 
 I am passionate about leading and helping people around me grow, achieve their goals, and positively impact the business.
 
