@@ -21,13 +21,3 @@ While I occasionally work weekends out of personal interest, I don’t expect th
 I prefer to communicate via `In-person`, `Slack`, `Google Meet`, or `Email`.
 
 If you need a quick response, I suggest you do it **in person** if you are in the same office as me. Otherwise, `Slack Huddle` is another option.
-
-#### Coffee Chats
-
-I believe in the power of informal conversations! Feel free to [schedule a coffee chat](https://cal.com/suvanho/cc) with me to discuss anything.
-
-### Feedback Philosophy
-
-I am definitely not perfect and could be better, so I always welcome feedback from everyone. This is a way for me to learn and improve.
-
-Please provide me feedback in private in any format and specifically indicate it is feedback.
