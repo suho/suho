@@ -1,6 +1,6 @@
 ## Hi there, I am Su 👋
 
-I am currently an [Engineering Lead](https://nimblehq.co/compass/team/roles/engineering-lead/) at [Nimble](https://nimblehq.co), and I am still a software engineer at heart.
+I am currently an [Senior Engineering Lead](https://nimblehq.co/compass/team/roles/engineering-lead/) at [Nimble](https://nimblehq.co), and I am still a software engineer at heart.
 
 I am passionate about leading and helping people around me grow, achieve their goals, and positively impact the business.
 
@@ -13,8 +13,6 @@ I value excellent **excellent ownership**, **transparency**, and **empathy**. I 
 I am based in [Da Nang, Vietnam](https://www.google.com/search?q=Danang,+Vietnam) (GMT+7). And you can find me working from [cirCO Da Nang City Centre](https://www.google.com/maps?q=cirCO+Da+Nang+City+Centre,+17+Quang+Trung+Street,+Hai+Chau+1+Ward,+Hai+Chau+District,+Da+Nang+City,+Vietnam).
 
 Wednesdays and Fridays are my meeting-free days to ensure focused and productive work.
-
-While I occasionally work weekends out of personal interest, I don’t expect this from team members.
 
 ### Communication Preferences
 
